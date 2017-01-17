@@ -10,6 +10,7 @@ namespace Houses_Example
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
