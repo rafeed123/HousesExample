@@ -16,8 +16,12 @@ namespace Houses_Example
         public void Paint(string color)
         {
             this.color = color;
-            color = "red";
-            Console.WriteLine(color);
+        }
+
+
+        public string CurrentColor()
+        {
+            return color;
         }
     }
 }
